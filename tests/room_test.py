@@ -55,9 +55,7 @@ class TestRoom(unittest.TestCase):
 
     
 
-    # 
-    # def test_add_song_to_room(self):
-
+  
     # def test_room_has_song(self):
 
     # def test_guest_has_money(self):
@@ -66,12 +64,3 @@ class TestRoom(unittest.TestCase):
 
 
     
-
-
-    # def test_pub_can_add_drink(self):
-    #     self.pub.add_drink(self.drink_1)
-    #     self.assertEqual(1, self.pub.stock_level(self.drink_1))
-    #     self.assertEqual(2.00, self.pub.stock_value())
-
-    
-
